@@ -1,6 +1,6 @@
 object Creating_class 
 {
-    def main(args: Array [String])      // Main function
+    def main(args: Array [String]) : Unit =     // Main function
     {
         println("Name is: " + addname("John"));
         println("The id is: " + addid(55) );
