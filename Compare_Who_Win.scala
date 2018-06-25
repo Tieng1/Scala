@@ -8,7 +8,7 @@ object ScoreToWin
         var y = Array(35,45)
 
         if (s(0)!= s(1))
-        println("Round 1: 1" );
+        println("Round 1: 1" )
         if (j(0)!= j(1))
         println("Round 2: 1")
         if (x(0)!= x(1))
